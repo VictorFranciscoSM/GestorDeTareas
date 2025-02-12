@@ -1,0 +1,12 @@
+[
+   {
+      "nombre": "Leo",
+      "edad": 30,
+      "cuidad": "mexico"
+   },
+   {
+      "nombre": "Jose",
+      "edad": 27,
+      "cuidad": "EDOMX"
+   }
+]

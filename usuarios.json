@@ -1,0 +1,34 @@
+{
+    "nombre": "SocialNet",
+    "usuarios": [
+        {
+            "nombre": "victor",
+            "amigos": [
+                "edgar"
+            ],
+            "publicaciones": [
+                {
+                    "contenido": "Hola empezando a no pensar",
+                    "likes": 7
+                }
+            ]
+        },
+        {
+            "nombre": "joe",
+            "amigos": [
+                "karen",
+                "chiquilla"
+            ],
+            "publicaciones": [
+                {
+                    "contenido": "Trabajo dura",
+                    "likes": 4
+                },
+                {
+                    "contenido": "Nada es facil",
+                    "likes": 6
+                }
+            ]
+        }
+    ]
+}

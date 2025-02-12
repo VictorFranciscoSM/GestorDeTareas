@@ -1,0 +1,12 @@
+{
+    "nombre": "Victor",
+    "edad": 26,
+    "ciudad": "EDOMX",
+    "hobbies": [
+        "leer",
+        "nadar",
+        "programar"
+    ],
+    "estudiante": false,
+    "profesion": "Ingeniero"
+}
